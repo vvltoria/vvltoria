@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👨‍💻 About Me
 
-<!--
-**vvltoria/vvltoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Science student at Belarusian State University with a strong foundation in mathematics and machine learning. I'm passionate about applying my skills in data analysis to solve real-world business problems and create innovative, data-driven solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+### Core Machine Learning
+* Linear & Logistic Regression
+* Ensemble Methods (Random Forests, Gradient Boosting)
+* Clustering & Dimensionality Reduction (K-Means, PCA)
+* Model Evaluation and Validation Techniques
+
+### Deep Learning & NLP
+* Deep Learning Fundamentals
+* Convolutional Neural Networks (CNNs)
+* Natural Language Processing (NLP): Text Classification, Feature Extraction
+
+### Data Science Workflow
+* Data Preprocessing and Cleaning
+* Feature Engineering
+* Exploratory Data Analysis (EDA)
